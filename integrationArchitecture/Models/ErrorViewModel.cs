@@ -1,5 +1,6 @@
 namespace integrationArchitecture.Models
 {
+    //
     public class ErrorViewModel
     {
         public string? RequestId { get; set; }

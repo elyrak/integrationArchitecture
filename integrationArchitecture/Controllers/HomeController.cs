@@ -1,7 +1,7 @@
 using integrationArchitecture.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-
+//
 namespace integrationArchitecture.Controllers
 {
     public class HomeController : Controller

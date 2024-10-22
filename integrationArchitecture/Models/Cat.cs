@@ -1,5 +1,6 @@
 ﻿namespace integrationArchitecture.Models
 {
+    //
     public class Cat
     {
         public string fact { get; set; }
